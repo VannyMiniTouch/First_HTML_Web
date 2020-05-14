@@ -1,0 +1,196 @@
+body{
+    text-align: center;
+}
+.top-contain{
+    font-family: 'Satisfy', cursive;
+    font-size: 40px;
+    background-color: #d4f3ef;
+    height: 800px;
+    color: #f688bb;
+    padding-top: 50px;
+    position: relative;
+    
+}
+.mountain{
+    width: 900px;
+    height: 500px;
+    
+}
+
+.me{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    margin-top: 50px;
+}
+.cloud1{
+    width: 110px;
+    height: 50px;
+    padding-top: 10px;
+    position: absolute;
+    left: 400px;
+    padding-top: 300px;
+   
+   
+}
+.cloud2{
+    width: 180px;
+    height: 120px;
+    position:absolute;
+}
+.skills{
+    height: 700px;
+}
+.imgskill{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    float: left;
+    margin-right: 30px;
+}
+.skill{
+    margin: auto;
+    width: 50%;
+    margin: 40px auto;
+    text-align: left;
+   
+}
+.imghobbies{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    float: right;
+    margin-left: 30px;
+}
+.hobbies{
+    margin: 40px auto;
+    width: 50%;
+    text-align: left;
+}
+.childhood{
+    width: 50%;
+    margin: 40px auto;
+    text-align: left;
+   
+}
+.imgmemory{
+     width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    float: left;
+    margin-right: 30px;
+
+}
+h1{
+    font-family: 'Pacifico', cursive;
+    font-size: 60px;
+    color:#00a8cc;
+
+}
+
+h2{
+     font-family: 'Enriqueta', serif;
+    color: #00bcd4;
+}
+h3{
+   font-family: 'Noto Serif', serif;
+   color: rgb(207, 93, 183);
+}
+p{
+    font-family: 'Courgette', cursive;
+    color: crimson;
+}
+profile{
+    margin: auto;
+}
+hr{
+    text-align: center;
+    width: 50%;
+    color: hotpink;
+    border: solid 2px;
+}
+.hr1{
+    text-align: 30px auto 0;
+    width: 50%;
+    border: dotted 5px hotpink;
+    border-bottom: none;
+}
+.hr2{
+    text-align: center;
+    width: 35%;
+    border: dotted 5px hotpink;
+    border-bottom: none;
+}
+.hr3{
+    text-align : center;
+    width: 15%;
+    border:dotted 5px hotpink ;
+    border-bottom: none;
+}
+.middle-container{
+     background-color: #f7f7f7; 
+   
+}
+.bottom-container{
+    background-color: #d4f3ef;
+    padding: 3  0px 0px;   
+    
+}
+a{
+    font-size: 20px;
+    margin: auto 30px;
+    text-decoration: none;
+   
+}
+
+
+.bio{
+    width: 30%;
+    margin: auto;
+}
+
+
+.btn {
+	background-color:#7892c2;
+	border-radius:14px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:11px 33px;
+	text-decoration:none;
+    text-shadow:0px 1px 2px #283966;
+    margin: 20px auto 30px;
+}
+.btn:hover {
+	background-color:#476e9e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.iconfacebook{
+    width: 55px;
+    height: 55px;
+    border-radius: 100%;
+    
+}
+.iconyoutube{
+    width: 55px;
+    height: 55px;
+    padding-top: 20px;
+   
+   
+    
+}
+.iconwebsite{
+    width: 55px;
+    height: 55px;
+    
+}
+.website{
+    margin-top: 50px;
+}
